@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Title: Suman's Custom Block List
+! Version: 1.0
+! Expires: 1 days (update frequency)
+! UpdateURL: https://raw.githubusercontent.com/sumanpaudel25/My-custom-adblock/refs/heads/main/custom-adblock-suman.txt
+
+
 notebooklm.google.com##labs-tailwind-root:nth-child(4) > div.app-body > welcome-page:last-child > div.welcome-page-container:last-child > div.all-projects-container:last-child > div.featured-projects-container:first-child
 notebooklm.google.com##labs-tailwind-root:nth-child(4) > div.app-body > welcome-page:last-child > div.welcome-page-container:last-child > div.project-actions-container:first-child > mat-button-toggle-group.mat-button-toggle-group.project-section-toggle.mat-button-toggle-group-appearance-standard:first-child
 notebooklm.google.com##labs-tailwind-root:nth-child(4) > div.app-body > welcome-page:last-child > div.welcome-page-container:last-child > div.project-actions-container:first-child > div.project-view-toggle-container:last-child > div.project-view-toggle-group:first-child
@@ -13,4 +20,5 @@ www.bing.com##.b_results_eml
 
 ! Dec 3, 2025 https://net20.cc
 net20.cc##.note-msg
+
 www.newsecrettips.com###adb
